@@ -8,6 +8,17 @@ Task 02 - EDA on Titanic Dataset (Prodigy Internship)
   <img src="https://img.shields.io/badge/Language-Python-yellow" />
 </p>
 
+## 📸 Visualizations
+
+### 🔹 Survival Count
+![Survival Count](survival_count.png)
+
+### 🔹 Gender vs Survival
+![Gender Survival](gender_survival.png)
+
+### 🔹 Fare by passengers 
+![ Fare by passengers](class_fare.png)
+
 ---
 
 ## 🌟 About the Task
